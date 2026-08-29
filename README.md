@@ -1,4 +1,4 @@
-[![Stars](https://img.shields.io/github/stars/70d8/the-shell-part-i-thai-mod?style=for-the-badge&logo=github&label=Stars)](https://github.com/70d8/the-shell-part-i-thai-mod/stargazers) [![Downloads](https://img.shields.io/github/downloads/70d8/the-shell-part-i-thai-mod/total?style=for-the-badge&logo=github&label=Downloads)](https://github.com/70d8/the-shell-part-i-thai-mod/releases) [![Views](https://hits.sh/github.com/70d8/the-shell-part-i-thai-mod.svg?style=for-the-badge&label=Views)](https://github.com/70d8/the-shell-part-i-thai-mod)
+[![Stars](https://img.shields.io/github/stars/70d8/the-shell-part-i-thai-mod?style=for-the-badge&logo=github&label=Stars&color=yellow)](https://github.com/70d8/the-shell-part-i-thai-mod/stargazers) [![Downloads](https://img.shields.io/github/downloads/70d8/the-shell-part-i-thai-mod/total?style=for-the-badge&logo=github&label=Downloads&color=green)](https://github.com/70d8/the-shell-part-i-thai-mod/releases) [![Views](https://hits.sh/github.com/70d8/the-shell-part-i-thai-mod.svg?style=for-the-badge&label=Views&color=blue)](https://github.com/70d8/the-shell-part-i-thai-mod)
 
 # The Shell Part I — Thai Translation Mod
 
